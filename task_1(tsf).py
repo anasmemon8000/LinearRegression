@@ -10,7 +10,9 @@ Original file is located at
 
 ---
 """
-
+# Name : Anas Asif Vichhy
+# institution : Sardar Patel College of Engineering, Mumbai
+# Data Sience and Business Anaysis Intern at The Sparks Foundation (TSF) at GRIP.
 # Commented out IPython magic to ensure Python compatibility.
 import pandas as pd
 import numpy as np
